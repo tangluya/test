@@ -20,8 +20,6 @@ Markdown是一种轻量级的「标记语言」。
 
 <a href="http://www.baidu.com" target="_self">百度</a>
 
-
-
 不同数量的`#`可以完成不同的标题，如下：
 
 ```
